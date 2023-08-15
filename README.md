@@ -12,11 +12,11 @@ Last update: August 2023
 ## Download time-calibrated best tree (1 tree)
 
 ```
-wget https://raw.githubusercontent.com/nhm-herpetology/frog-gigmatrix/main/Supplementary_File_S3_time_tree.tre
+wget https://raw.githubusercontent.com/nhm-herpetology/frog-gigamatrix/main/Supplementary_File_S3_time_tree.tre
 ``` 
 
 ## Download time-calibrated bootstrap trees (100 trees)
 
 ```
-wget https://raw.githubusercontent.com/nhm-herpetology/frog-gigmatrix/main/Supplementary_File_S4_time_trees_boot.tre
+wget https://raw.githubusercontent.com/nhm-herpetology/frog-gigamatrix/main/Supplementary_File_S4_time_trees_boot.tre
 ``` 
