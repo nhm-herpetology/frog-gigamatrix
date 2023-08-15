@@ -3,7 +3,7 @@
 
 Citation:
 
-Portik DM*, Streicher JW*, Wiens JJ. 2023. Frog phylogeny: a time-calibrated, species-level tree based on hundreds of loci and 5,242 species. Molecular Phylogenetics and Evolution. In Press. (*equal contribution)
+Portik DM*, Streicher JW*, Wiens JJ. 2023. Frog phylogeny: a time-calibrated, species-level tree based on hundreds of loci and 5,242 species. _Molecular Phylogenetics and Evolution_. In Press. (*equal contribution)
 
 Last update: August 2023
 
