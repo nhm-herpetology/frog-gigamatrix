@@ -1,4 +1,4 @@
-**R commands for figure construction**
+**R commands for tree figure construction**
 
 **Main commands are located in the R script 'Portik_et_al_2023_figures_MPE.R'**
 
