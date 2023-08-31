@@ -1,5 +1,6 @@
-# Frog phylogeny: time-calibrated, species-level trees based on hundreds of loci and 5,242 species
 **R commands for figure construction**
+
+**Main commands are located in the R script 'Portik_et_al_2023_figures_MPE.R'**
 
 Citation:
 
