@@ -18,5 +18,7 @@ wget https://raw.githubusercontent.com/nhm-herpetology/frog-phylogeny/main/Suppl
 ## Download time-calibrated bootstrap trees (100 trees)
 
 ```
-wget https://raw.githubusercontent.com/nhm-herpetology/frog-gigamatrix/main/Supplementary_File_S4_time_trees_boot.tre
-``` 
+wget https://raw.githubusercontent.com/nhm-herpetology/frog-phylogeny/main/Supplementary_File_S4_time_trees_boot.tre
+```
+
+>Click [here](https://github.com/nhm-herpetology/frog-phylogeny/tree/main/R_tree_figure_commands) to access the R code used to make the tree figures that appear in the paper.
