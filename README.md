@@ -7,12 +7,12 @@ Portik DM*, Streicher JW*, Wiens JJ. 2023. Frog phylogeny: a time-calibrated, sp
 
 Last update: August 2023
 
-![Phylogeny Overview](https://github.com/nhm-herpetology/frog-gigamatrix/blob/main/phylogeny_overview.jpg)
+![Phylogeny Overview](https://github.com/nhm-herpetology/frog-phylogeny/blob/main/phylogeny_overview.jpg)
 
 ## Download time-calibrated best tree (1 tree)
 
 ```
-wget https://raw.githubusercontent.com/nhm-herpetology/frog-gigamatrix/main/Supplementary_File_S3_time_tree.tre
+wget https://raw.githubusercontent.com/nhm-herpetology/frog-phylogeny/main/Supplementary_File_S3_time_tree.tre
 ``` 
 
 ## Download time-calibrated bootstrap trees (100 trees)
